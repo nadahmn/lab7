@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Stars Gallery</string>
+    <string name="search_hint">Search stars by name, profession, nationality...</string>
+    <string name="share_app_title">Share Stars Gallery</string>
+    <string name="share_app_text">🌟 Check out Stars Gallery! 🌟\n\nBrowse through amazing celebrities!\nDownload now and explore the world of stars!</string>
+    <string name="rate_star_title">Rate This Star</string>
+    <string name="rate_star_message">How would you rate %s?</string>
+    <string name="rating_updated">Rating updated to %.1f</string>
+    <string name="added_to_favorites">Added to favorites! ❤️</string>
+    <string name="removed_from_favorites">Removed from favorites 💔</string>
+    <string name="star_removed">Star removed! 🗑️</string>
+    <string name="new_star_added">New star added! ✨</string>
+    <string name="ratings_shuffled">Ratings shuffled! 🎲</string>
+    <string name="sorted_by_rating">Sorted by rating! 📊</string>
+    <string name="showing_favorites">Showing %d favorites! ❤️</string>
+    <string name="no_favorites">No favorites yet! ❤️</string>
+    <string name="data_reset">Data reset! 🔄</string>
+    <string name="no_stars_found">No stars found</string>
+    <string name="loading_stats">Loading stats...</string>
+    <string name="confirm_reset">Are you sure you want to reset all data? This will restore the original star list.</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="update">UPDATE</string>
+    <string name="toggle_favorite">Toggle Favorite</string>
+    <string name="remove_star">Remove Star</string>
+    <string name="poor">Poor</string>
+    <string name="excellent">Excellent</string>
+    <string name="rate_this_star">Rate this star:</string>
+</resources>
